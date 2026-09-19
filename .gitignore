@@ -1,0 +1,99 @@
+# ==============================
+# Unity generated folders
+# ==============================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# ==============================
+# Unity build folders
+# ==============================
+
+[Bb]uild/
+[Bb]uilds/
+
+# 如果你之后用 docs/ 放 WebGL 成品发布 GitHub Pages，
+# docs/ 不要忽略
+
+# ==============================
+# Unity generated project files
+# ==============================
+
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ==============================
+# IDE files
+# ==============================
+
+.vs/
+.idea/
+.vscode/
+*.sln.iml
+
+# ==============================
+# OS files
+# ==============================
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ==============================
+# Crash / temporary files
+# ==============================
+
+sysinfo.txt
+*.tmp
+*.bak
+*.backup
+*.old
+*.orig
+*.log
+
+# ==============================
+# Build outputs
+# ==============================
+
+*.apk
+*.aab
+*.ipa
+
+# ==============================
+# Android / Gradle
+# ==============================
+
+.gradle/
+.gradle-cache/
+
+# ==============================
+# Asset Bundles / Addressables
+# ==============================
+
+ServerData/
+AssetBundles/
+
+# ==============================
+# Environment / secret files
+# ==============================
+
+.env
+.env.*
+!.env.example
